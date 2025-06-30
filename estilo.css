@@ -1,13 +1,13 @@
 body{
-    background-color:white(255, 0, 0);  
+    background-color:white;  
     color:#00FFF2;
     font-size:48px;        
 }
-.cabecalho(     
+.cabecalho{  
+    background-color:black;
 
 
-
-)
+}
 .cabecalho-img(
 
 
