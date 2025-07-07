@@ -5,10 +5,8 @@ background: linear-gradient(90deg,rgba(165, 197, 209, 1) 0%, rgba(87, 199, 133, 
     font-size:48px;        
 }
 .cabecalho{  
-    background: #2A7B9B;
-background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(15, 112, 55, 1) 52%, rgba(237, 221, 83, 1) 100%);
-
-
+  background: #85b7d4;
+background: linear-gradient(90deg, rgba(133, 183, 212, 1) 2%, rgba(131, 250, 125, 1) 60%, rgba(237, 221, 83, 1) 100%);
 }
 .conteudo1 h2{
     border-bottom: solid 4px black;
