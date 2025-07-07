@@ -3,7 +3,7 @@ body{
 background: linear-gradient(90deg,rgba(165, 197, 209, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%); 
 
     color:#3dcd9d; 
-
+    
     font-size:48px;        
 }
 .cabecalho{  
@@ -12,4 +12,4 @@ background: linear-gradient(90deg, rgba(133, 183, 212, 1) 2%, rgba(131, 250, 125
 }
 .conteudo1 h2{
     border-bottom: solid 4px black;
-}
+    color:aqua} 
